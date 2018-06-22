@@ -1,0 +1,11 @@
+It is necessary to implement classes of animals on the farm:
+
+- Cows, goats, sheep, pigs;
+- Ducks, chickens, geese.
+
+=======================
+
+Conditions:
+
+- There must be one base class that all other animals inherit.
+- The base class must define common characteristics and interface.
