@@ -1,0 +1,4 @@
+Write the function of finding common friends:
+
+The function must accept user identifiers;
+Result of work: the list of identifiers of common friends with links to pages.
