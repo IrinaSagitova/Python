@@ -1,0 +1,3 @@
+Create a page using GitHub Pages.
+Set the counter.
+Implement the access class to the Yandex.Metric API, which accepts a token and provides information about visits, views and visitors.
