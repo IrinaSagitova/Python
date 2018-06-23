@@ -1,0 +1,7 @@
+It is necessary to extend the function of the interpreter so that it accepts the following parameters:
+
+path to the file with the text;
+path to the file with the result;
+the language from which to translate;
+language to translate (by default Russian).
+You have 3 files (DE.txt, ES.txt, FR.txt) with news in 3 languages: French, Spanish, German. The function should take each file with text, translate it into Russian and save the result in a new file.
