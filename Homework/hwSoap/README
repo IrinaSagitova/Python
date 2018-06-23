@@ -1,0 +1,20 @@
+Using the services http://www.webservicex.net/ and http://fx.currencysystem.com/webservices/CurrencyServer4.asmx (for currencies), write functions that will receive data from the corresponding files and count the result. Output the output to the console. As a parameter, the function must take the path to the data file.
+
+Task number 1
+Given: seven temperatures in Fahrenheit in the file temps.txt. It is necessary to deduce the average for a week arithmetic temperature on Celsius.
+
+Task number 2
+You are going to go on a trip and start to develop a route and write out the prices for flights. Ticket prices in local currencies are given (currencies.txt file). The format of the data in the file:
+
+<where from>: <ticket price> <currency code>
+Example:
+MOSCOW-LONDON: 120 EUR
+Count how much you spend on travel money in rubles (without kopecks, round up).
+
+Task number 3
+Given: the length of the path in miles, the name of the path (file travel.txt) in the format:
+
+<path name>: <path length> <distance measure>
+Example:
+MOSCOW-LONDON: 1,553.86 mi
+It is necessary to calculate the total path distance in kilometers to the nearest hundredth.
