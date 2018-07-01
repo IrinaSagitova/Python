@@ -1,4 +1,0 @@
-Construct a schedule for changing the number of names Ruth and Robert from 1900 to 2000.
-Construct a histogram by the number of their names from 1900 to 2000 with 5-year intervals (1900, 1905, 1910, ..., 1995, 2000).
-Construct a pie chart of the number of uses for the TOP-10 popular names beginning with R for the year 1950.
-Construct a bitmap by the number of consonant letters in names and frequency of use for 100 years. Those. you need to add all the statistics from 1900 to 2000, group by name, count the number of consonant letters in each name and display the ratio "Number of consonant letters in the name": "Number of uses".
