@@ -1,3 +1,0 @@
-Given: API for data about football matches and teams.
-
-Using kmeans to make clustering of football teams by the cost and number of losses, the result is displayed in the form of a point chart for the case of 3 and 5 clusters. If the cost of the commands is not specified, then generate random values for the teams.
