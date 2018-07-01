@@ -1,5 +1,0 @@
-Given: data on the popularity of names for newborns. It is not necessary to add source data to the repository with the job completed, but in Notepad, you must select the path to the files in a separate variable that is easy to change.
-Task number 1
-Using Pandas, write a function that loads the specified years and displays the top-3 popular names.
-Task number 2
-Using Pandas, write a function that returns the dynamics of changing the number of names for the specified years in the sex section.
